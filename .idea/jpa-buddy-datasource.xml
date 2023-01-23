@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="b50e928a-f852-4ca9-8a97-9e68af5de420" name="hibernate_test" url="jdbc:postgresql://localhost/test" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
